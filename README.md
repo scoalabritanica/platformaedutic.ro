@@ -1,0 +1,2 @@
+# platformaedutic.ro
+platformaedutic.ro
