@@ -19,8 +19,8 @@ description: Platforma EduTic
 
 keywords: platformaedutic.ro, edu, tic
 
-baseurl: "platformaedutic.ro" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "platformaedutic.ro" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  platformaedutic.ro
 facebook_username:  ClusterEduTIC
