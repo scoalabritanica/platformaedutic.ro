@@ -1,0 +1,19 @@
+current directory: /home/alin/Dev/Jekyll/platformaedutic.ro/vendor/cache/ruby/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/nix/store/d3mglw6m4ikwf7aw0rxz3abj5cv176ha-ruby-3.1.4/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/alin/Dev/Jekyll/platformaedutic.ro/vendor/cache/ruby/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20230817-27394-lalchs sitelibdir\=./.gem.20230817-27394-lalchs clean
+
+current directory: /home/alin/Dev/Jekyll/platformaedutic.ro/vendor/cache/ruby/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20230817-27394-lalchs sitelibdir\=./.gem.20230817-27394-lalchs
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.so
+
+current directory: /home/alin/Dev/Jekyll/platformaedutic.ro/vendor/cache/ruby/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20230817-27394-lalchs sitelibdir\=./.gem.20230817-27394-lalchs install
+install -c -p -m 755 ruby_http_parser.so ./.gem.20230817-27394-lalchs
+
+current directory: /home/alin/Dev/Jekyll/platformaedutic.ro/vendor/cache/ruby/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20230817-27394-lalchs sitelibdir\=./.gem.20230817-27394-lalchs clean
